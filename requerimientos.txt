@@ -1,0 +1,8 @@
+pip install -U pip --user
+pip install matplotlib
+pip install numpy
+pip install requests
+pip install SQLAlchemy==1.4.44
+pip install Flask==2.2.3
+pip install Flask-SQLAlchemy==3.0.3
+pip install Flask-Login
